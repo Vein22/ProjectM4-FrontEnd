@@ -1,4 +1,4 @@
-import Card from "@/components/cards/cards";
+import Card from "@/components/card/card";
 import React from "react";
 import { products } from "@/mocks/products";
 

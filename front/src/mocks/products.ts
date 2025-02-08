@@ -3,7 +3,7 @@ export const products = [
         id: "1",
         title: "Producto 1",
         price: 333,
-        image: "https://res.cloudinary.com/dxcmef6qx/image/upload/v1732249381/diaxbudeznovbj2veb8l.jpg",
+        image: "https://res.cloudinary.com/dxcmef6qx/image/upload/v1732249494/higkwzcjrhcnppfn4bsh.jpg",
     },
     {
         id: "2",
